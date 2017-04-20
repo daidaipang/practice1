@@ -1,0 +1,7 @@
+ssh-keygen -t rsa -c "0011111"
+git init 
+git status
+git remote add origin 
+git add 
+git commit -m''
+git push -u origin master
